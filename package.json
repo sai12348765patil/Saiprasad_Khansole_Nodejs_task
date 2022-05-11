@@ -1,0 +1,23 @@
+{
+  "name": "lattice-innovation",
+  "version": "1.0.0",
+  "description": "technical round evalution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sai12348765patil/lattice-innovation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sai12348765patil/lattice-innovation/issues"
+  },
+  "homepage": "https://github.com/sai12348765patil/lattice-innovation#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
