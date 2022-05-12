@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "627c9d51614614285a43d09e",
+        "Name": "patient1_male",
+        "Address": "Dath nager, nanded , Maharashtra",
+        "Email": "A@b.com",
+        "Phone": 8767485072,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "1652344737408-Screenshot (62).png"    },
+    {
+        "_id": "627cce22e80eddeba33734bc",
+        "Name": "patient1_male",
+        "Address": "Dath nager, nanded , Maharashtra",
+        "Email": "A@b.com",
+        "Phone": 8767485072,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652346402332-Screenshot (62).png",
+        "doctor_id": {
+            "_id": "627c86719b4b39d8172f738d",
+            "FirstName": "saiprasad",
+            "LastName": "Patil",
+            "HospitalName": "AIIMS"
+        }    },
+    {
+        "_id": "627cf12f7fe647e6f8776239",
+        "Name": "patient2_male",
+        "Address": "city, nanded , Maharashtra",
+        "Email": "B@b.com",
+        "Phone": 8767485072,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652355375437-Screenshot (11).png",
+        "doctor_id": {
+            "_id": "627c86719b4b39d8172f738d",
+            "FirstName": "saiprasad",
+            "LastName": "Patil",
+            "HospitalName": "AIIMS"
+        }    },
+    {
+        "_id": "627d2efb1798e0ecadf7f69c",
+        "Name": "patient3_female",
+        "Address": "chennai ,  Maharashtra",
+        "Email": "c@b.com",
+        "Phone": 8767485073,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652371195047-Screenshot (11).png",
+        "doctor_id": {
+            "_id": "627cc8836298ff80cb66aa53",
+            "FirstName": "Aniket",
+            "LastName": "Sharma",
+            "HospitalName": "IGIMS"
+        }    },
+    {
+        "_id": "627d2f1a1798e0ecadf7f69e",
+        "Name": "patient4_female",
+        "Address": "tamilandu ,  Maharashtra",
+        "Email": "d@b.com",
+        "Phone": 8767485073,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652371226545-Screenshot (11).png",
+        "doctor_id": {
+            "_id": "627cc8836298ff80cb66aa53",
+            "FirstName": "Aniket",
+            "LastName": "Sharma",
+            "HospitalName": "IGIMS"
+        }    },
+    {
+        "_id": "627d2f541798e0ecadf7f6a0",
+        "Name": "patient5_female",
+        "Address": "delhi ,  Maharashtra",
+        "Email": "e@b.com",
+        "Phone": 8767485073,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652371284968-Screenshot (11).png",
+        "doctor_id": {
+            "_id": "627cc8ab6298ff80cb66aa55",
+            "FirstName": "Ruturaj",
+            "LastName": "Verma",
+            "HospitalName": "J.M.N.C"
+        }    },
+    {
+        "_id": "627d2f741798e0ecadf7f6a2",
+        "Name": "patient6_male",
+        "Address": "agra ,  Maharashtra",
+        "Email": "f@b.com",
+        "Phone": 8767485075,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652371316777-Screenshot (11).png",
+        "doctor_id": {
+            "_id": "627cc8ab6298ff80cb66aa55",
+            "FirstName": "Ruturaj",
+            "LastName": "Verma",
+            "HospitalName": "J.M.N.C"
+        }    },
+    {
+        "_id": "627d2fad1798e0ecadf7f6a4",
+        "Name": "patient7_male",
+        "Address": "U.P ,  Maharashtra",
+        "Email": "G@b.com",
+        "Phone": 8767485075,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652371373885-Screenshot (11).png",
+        "doctor_id": {
+            "_id": "627cc8ce6298ff80cb66aa57",
+            "FirstName": "Ganeshpatil",
+            "LastName": "Masai",
+            "HospitalName": "Apollo"
+        }    },
+    {
+        "_id": "627d2fc81798e0ecadf7f6a6",
+        "Name": "patient8_male",
+        "Address": "BANGLORE ,  Maharashtra",
+        "Email": "G@b.com",
+        "Phone": 8767485075,
+        "Password": "SaiprasaDPATIL",
+        "Photo_url": "C:\\Users\\nikhi\\.vscode\\lattice-innovation\\src\\photo-upload\\1652371400174-Screenshot (11).png",
+        "doctor_id": {
+            "_id": "627cc8ce6298ff80cb66aa57",
+            "FirstName": "Ganeshpatil",
+            "LastName": "Masai",
+            "HospitalName": "Apollo"
+        }    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "_id": "627c86719b4b39d8172f738d",
+        "FirstName": "saiprasad",
+        "LastName": "Patil",
+        "HospitalName": "AIIMS",
+        "Phone": 9146373638,
+        "Pincode": 431602,
+        "State": "maharashtra",
+        "__v": 0
+    },
+    {
+        "_id": "627cc8836298ff80cb66aa53",
+        "FirstName": "Aniket",
+        "LastName": "Sharma",
+        "HospitalName": "IGIMS",
+        "Phone": 9146373638,
+        "Pincode": 431602,
+        "State": "maharashtra",
+        "createdAt": "2022-05-12T08:42:43.150Z",
+        "updatedAt": "2022-05-12T08:42:43.150Z"
+    },
+    {
+        "_id": "627cc8ab6298ff80cb66aa55",
+        "FirstName": "Ruturaj",
+        "LastName": "Verma",
+        "HospitalName": "J.M.N.C",
+        "Phone": 9146373638,
+        "Pincode": 431602,
+        "State": "maharashtra",
+        "createdAt": "2022-05-12T08:43:23.809Z",
+        "updatedAt": "2022-05-12T08:43:23.809Z"
+    },
+    {
+        "_id": "627cc8ce6298ff80cb66aa57",
+        "FirstName": "Ganeshpatil",
+        "LastName": "Masai",
+        "HospitalName": "Apollo",
+        "Phone": 9146373638,
+        "Pincode": 431602,
+        "State": "maharashtra",
+        "createdAt": "2022-05-12T08:43:58.799Z",
+        "updatedAt": "2022-05-12T08:43:58.799Z"
+    }
+]
