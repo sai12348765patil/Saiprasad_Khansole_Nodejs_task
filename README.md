@@ -27,4 +27,5 @@ before that you have to use "npm i" to download the all dependencies.like expres
 6) Fetching all the patients in an order for a single psychiatrist (without photo) by using unique Id of doctor we get all patient of that doctor = "http://localhost:2448/patients/doctor/:id", it will show all patients of respective doctor.
 
 
+7) And Final API is Fetching the count of how many patients are registered for each psychiatrist in a hospital. This should return, hospital name,  psychiatrist name, patients count in the form of array by using get request to = "http://localhost:2448/allList" , it will show each hopsital and there respective doctora and patients. 
 
