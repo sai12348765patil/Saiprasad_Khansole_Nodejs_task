@@ -16,10 +16,7 @@
         "HospitalName": "IGIMS",
         "Phone": 9146373638,
         "Pincode": 431602,
-        "State": "maharashtra",
-        "createdAt": "2022-05-12T08:42:43.150Z",
-        "updatedAt": "2022-05-12T08:42:43.150Z"
-    },
+        "State": "maharashtra"    },
     {
         "_id": "627cc8ab6298ff80cb66aa55",
         "FirstName": "Ruturaj",
@@ -27,10 +24,7 @@
         "HospitalName": "J.M.N.C",
         "Phone": 9146373638,
         "Pincode": 431602,
-        "State": "maharashtra",
-        "createdAt": "2022-05-12T08:43:23.809Z",
-        "updatedAt": "2022-05-12T08:43:23.809Z"
-    },
+        "State": "maharashtra"    },
     {
         "_id": "627cc8ce6298ff80cb66aa57",
         "FirstName": "Ganeshpatil",
@@ -38,8 +32,13 @@
         "HospitalName": "Apollo",
         "Phone": 9146373638,
         "Pincode": 431602,
-        "State": "maharashtra",
-        "createdAt": "2022-05-12T08:43:58.799Z",
-        "updatedAt": "2022-05-12T08:43:58.799Z"
-    }
+        "State": "maharashtra"    },
+    {
+        "_id": "627dd2ac3b2ed1b15761b608",
+        "FirstName": "steven",
+        "LastName": "strange",
+        "HospitalName": "Apollo",
+        "Phone": 9146373638,
+        "Pincode": 431602,
+        "State": "callifornia"    }
 ]

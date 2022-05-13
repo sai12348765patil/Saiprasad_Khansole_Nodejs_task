@@ -8,7 +8,7 @@
   
 
 => To run this application just run the code in terminal by using "npm start" command, and run the Apis in postman.
-before that you have to use "npm i" to dowenload the all dependencies.
+before that you have to use "npm i" to download the all dependencies.like express, express-validator, multer, mongoose and nodemon.
 
 =>After "npm start" if you able to see "listning on port 2448", then your app is running now.
 
